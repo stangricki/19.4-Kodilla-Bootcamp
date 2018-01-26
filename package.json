@@ -1,0 +1,23 @@
+{
+  "name": "19.3-Kodilla-Bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stangricki/19.3-Kodilla-Bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stangricki/19.3-Kodilla-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/stangricki/19.3-Kodilla-Bootcamp#readme",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
