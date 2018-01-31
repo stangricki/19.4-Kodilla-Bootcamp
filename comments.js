@@ -4,7 +4,7 @@ import {EDIT_COMMENT} from './actions';
 import {THUMB_UP_COMMENT} from './actions';
 import {THUMB_DOWN_COMMENT} from './actions';
 
-onst initialState = {
+const initialState = {
     comments: [],
     users: []
 };
